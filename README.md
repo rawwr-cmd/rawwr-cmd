@@ -2,7 +2,7 @@
         Imagine making your "ABOUT ME", going <em>hello!</em> then e-introducing yourself... 🤦‍♀️
       </h2>
 
-<i>✅INSTEAD "rawwrs" like DINO </i>
+<i>✅INSTEAD "rawwrs/roars" like DINO </i>
 
 ## <em>Dinosaur: **[rawwr!](https://github.com/rawwr-cmd)** hiya man, wsp?<em>
 
