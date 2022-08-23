@@ -14,13 +14,16 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/wtf_rawwr)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/imrawwr)
 
-## 💫 About me<img src="https://media0.giphy.com/media/l378ryVoDmMwKoSt2/giphy.gif" width="40">
+# 💫 About me<img src="https://media0.giphy.com/media/l378ryVoDmMwKoSt2/giphy.gif" width="40">
 - 😄 Pronouns: he/him.
 - 🌱 Currently learning more about nodejs.
 - 👯 Collaborates on github and discord.
 - 🤔 It would be so freggin nice if you help me with django rf.
-- 💬 Talks about javascript, reactjs, nextjs, typescript, nodejs, python, java or stocks.
+- 💬 Talks about javascript, reactjs, nextjs, typescript, nodejs, python, java or stocks. Besides them, we can talk about literature, biz, and fiction. 
 - 📫 You can reach me on any of my socials, tbh just a ping away.
 - ⚡ Fun fact: “Books don’t need batteries, ummm... that's dumb”
+- 🍛Foods/Snacks: No cap, I love Curry and Spicy Golgappes.
+
+
 
 
