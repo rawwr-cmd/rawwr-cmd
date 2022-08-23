@@ -2,9 +2,9 @@
         Imagine making your "ABOUT ME", going <em>hello!</em> then e-introducing yourself... 🤦‍♀️
       </h2>
 
-<h3>✅INSTEAD TRY THIS</h3>
+<i>✅INSTEAD "rawwrs" like DINO </i>
 
-## *hiya man, wsp? also, i'm [<em>rawwr</em>](https://github.com/rawwr-cmd) ICYWK
+## <em>Dinosaur: **[rawwr!](https://github.com/rawwr-cmd)** hiya man, wsp?<em>
 
 
 - 🔭 I’m currently working on ...
