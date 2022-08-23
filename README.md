@@ -1,9 +1,11 @@
-### Hi there 👋
+<h2 class="lead">
+        Imagine making your "ABOUT ME", going <em>hello!</em> then e-introducing yourself... 🤦‍♀️
+      </h2>
 
-<!--
-**rawwr-cmd/rawwr-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>✅INSTEAD TRY THIS</h3>
 
-Here are some ideas to get you started:
+## *hiya man, wsp? also, i'm [<em>rawwr</em>](https://github.com/rawwr-cmd) ICYWK
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
