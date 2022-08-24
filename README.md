@@ -58,13 +58,13 @@ Pick a slot if you are a techie or code-savvy or possess resilient ideas about s
 
 ## <img src='https://media4.giphy.com/media/lCoGMWyAlYGB3kRnbz/giphy.gif?cid=ecf05e47bf6hl1lbh2x90s8c61vddnahzlhoplmhp5fuut6e&rid=giphy.gif&ct=s' width='35'><em>"RAWWR" in urban dix</em>
 
-<p align="center">Exclamation; Contrary to popular belief, "rawwr" does not mean I love you in dinosaur. It loosely translates to "I am going to bite your torso off and consume it for sustenance."</br></p>
-<h4><em>
+<h4><p align="center">Exclamation; Contrary to popular belief, "rawwr" does not mean I love you in dinosaur. It loosely translates to "I am going to bite your torso off and consume it for sustenance."</br></p>
+<em>
 WRONG: </br>
 Dinosaur: Rawwr!</br>
 Stupid person: I LOVE YOU TOO!</br>
 Stupid person gets eaten</br>
-
+</br>
 RIGHT:</br>
 Dinosaur: Rawwr!</br>
 Smart person: OH SHIT! I'm going to run away now!</br>
