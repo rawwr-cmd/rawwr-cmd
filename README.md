@@ -32,8 +32,42 @@
 [![SPOTIFY Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/b0jfooyry2plndmhduq7o944h?si=01d8618a007c45ce)
 
 ## 🤝🏼 Schedule a meeting?
-Pick a slot if you are a techie or code-savvy or possess resilient ideas about startups or love literature, history or anything and want to have a c2c meet but please be specific about what you want to talk since time is so less. <em>Click on the image to proceed</em>
+Pick a slot if you are a techie or code-savvy or possess resilient ideas about startups or love literature, history or anything and want to have a c2c meet but please be specific about what you want to talk since time is just 30 mins :(. <em>Click on the image to proceed</em>
 
 <a href="https://calendly.com/rawwr/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+
+
+
+## <img src='https://media4.giphy.com/media/PmdWKodlTy9dKJccrJ/giphy.gif?cid=ecf05e47fsqqgof31pr8emb4ifoa4ftrquenlq3f2bbpp9z4&rid=giphy.gif&ct=s' width="18" > Activity graph of each day
+
+<p align="center">
+	<img src="https://activity-graph.herokuapp.com/graph?username=rawwr-cmd&theme=minimal"/>
+</p>
+
+## ✨ Report/Summary card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rawwr-cmd&theme=vue"/>
+</p>
+
+## Stats, Stats and Streak <img src='https://media4.giphy.com/media/l4FGwMO7epx7FEH8Q/giphy.gif?cid=ecf05e47iq8gl23iu3eoyajk2c0ak6hkrbiq7c25xd0khmsj&rid=giphy.gif&ct=s' width="55" >
+
+![Rawwr's GitHub stats](https://github-readme-stats.vercel.app/api?username=rawwr-cmd&show_icons=true&theme=blue)
+
+![Rawwr's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=rawwr-cmd&theme=sea)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
