@@ -51,9 +51,11 @@ Pick a slot if you are a techie or code-savvy or possess resilient ideas about s
 
 ## Stats, Stats and Streak <img src='https://media4.giphy.com/media/l4FGwMO7epx7FEH8Q/giphy.gif?cid=ecf05e47iq8gl23iu3eoyajk2c0ak6hkrbiq7c25xd0khmsj&rid=giphy.gif&ct=s' width="55" >
 
-![Rawwr's GitHub stats](https://github-readme-stats.vercel.app/api?username=rawwr-cmd&show_icons=true&theme=blue)
+<p align="center">
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rawwr-cmd&theme=sea"/>
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rawwr-cmd&show_icons=true&theme=blue"/>
+</p>
 
-![Rawwr's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=rawwr-cmd&theme=sea)
 
 
 
