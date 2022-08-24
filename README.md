@@ -68,7 +68,7 @@ Stupid person gets eaten</br>
 RIGHT:</br>
 Dinosaur: Rawwr!</br>
 Smart person: OH SHIT! I'm going to run away now!</br>
-Smart person also gets eaten. You can't outrun a dinosaur. But at least he tried.</br></em></h4>
+Smart person also gets eaten.</br> You can't outrun a dinosaur. But at least he tried.</br></em></h4>
 
 ## 😆 <em>**KMSL**</em>-
 <p align="center">
