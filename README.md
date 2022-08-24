@@ -56,6 +56,43 @@ Pick a slot if you are a techie or code-savvy or possess resilient ideas about s
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rawwr-cmd&show_icons=true&theme=blue"/>
 </p>
 
+## <img src='https://media4.giphy.com/media/lCoGMWyAlYGB3kRnbz/giphy.gif?cid=ecf05e47bf6hl1lbh2x90s8c61vddnahzlhoplmhp5fuut6e&rid=giphy.gif&ct=s' width='35'><em>"RAWWR" in urban dix
+
+<p align="center">Exclamation; Contrary to popular belief, "rawwr" does not mean I love you in dinosaur. It loosely translates to "I am going to bite your torso off and consume it for sustenance."</br></p>
+
+WRONG: </br>
+Dinosaur: Rawwr!</br>
+Stupid person: I LOVE YOU TOO!</br>
+Stupid person gets eaten</br>
+
+RIGHT:</br>
+Dinosaur: Rawwr!</br>
+Smart person: OH SHIT! I'm going to run away now!</br>
+Smart person also gets eaten. You can't outrun a dinosaur. But at least he tried.</br></em>
+
+## 😆 <em>**KMSL**</em>-
+<p align="center">
+  <img src="https://github-readme-quotes.herokuapp.com/quote?quoteCategory=fun&animation=grow_out_in"/>
+</p>
+
+## 🌻 Feeling Grateful? <em>**GIFT ME YOUR FAVOURITE BOOK.**</em>
+ [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/rawrrx?country.x=IN&locale.x=en_GB) [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/iamrawwr) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/rawwrx) 
+
+ <div align="center">
+
+### Let's <em>rawwr</em> ❤️ to everyone who need it and thanks for visiting my profile !
+
+</div>
+
+
+
+
+
+
+
+
+
+
 
 
 
