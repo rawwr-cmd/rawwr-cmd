@@ -32,7 +32,7 @@
 [![SPOTIFY Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/b0jfooyry2plndmhduq7o944h?si=01d8618a007c45ce)
 
 ## 🤝🏼 Schedule a meeting?
-Pick a slot if you are a techie or code-savvy or possess resilient ideas about startups or love literature, history or anything and want to have a c2c meet but please be specific about what you want to talk since time is just 30 mins :(. <em>Click on the image to proceed</em>
+Pick a slot if you are a techie or code-savvy or possess resilient ideas about startups or love literature, history or anything and want to have a c2c meet but please be specific about what you want to talk since time is just 30 mins :(. <em>Click on the below image to proceed.</em>
 
 <a href="https://calendly.com/rawwr/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
