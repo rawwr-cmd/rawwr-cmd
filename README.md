@@ -56,10 +56,10 @@ Pick a slot if you are a techie or code-savvy or possess resilient ideas about s
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rawwr-cmd&show_icons=true&theme=blue"/>
 </p>
 
-## <img src='https://media4.giphy.com/media/lCoGMWyAlYGB3kRnbz/giphy.gif?cid=ecf05e47bf6hl1lbh2x90s8c61vddnahzlhoplmhp5fuut6e&rid=giphy.gif&ct=s' width='35'><em>"RAWWR" in urban dix
+## <img src='https://media4.giphy.com/media/lCoGMWyAlYGB3kRnbz/giphy.gif?cid=ecf05e47bf6hl1lbh2x90s8c61vddnahzlhoplmhp5fuut6e&rid=giphy.gif&ct=s' width='35'><em>"RAWWR" in urban dix</em>
 
 <p align="center">Exclamation; Contrary to popular belief, "rawwr" does not mean I love you in dinosaur. It loosely translates to "I am going to bite your torso off and consume it for sustenance."</br></p>
-
+<h4><em>
 WRONG: </br>
 Dinosaur: Rawwr!</br>
 Stupid person: I LOVE YOU TOO!</br>
@@ -68,7 +68,7 @@ Stupid person gets eaten</br>
 RIGHT:</br>
 Dinosaur: Rawwr!</br>
 Smart person: OH SHIT! I'm going to run away now!</br>
-Smart person also gets eaten. You can't outrun a dinosaur. But at least he tried.</br></em>
+Smart person also gets eaten. You can't outrun a dinosaur. But at least he tried.</br></em></h4>
 
 ## 😆 <em>**KMSL**</em>-
 <p align="center">
