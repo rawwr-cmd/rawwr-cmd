@@ -21,7 +21,7 @@
 - 🌱 Currently learning more about nodejs.
 - 👯 Collaborates on github and discord.
 - 🤔 It would be so freggin nice if you help me with django rf.
-- 💬 Talks about javascript, reactjs, nextjs, typescript, nodejs, python, java or stocks. Besides them, we can talk about literature, biz, F1 and fiction. 
+- 💬 Talks about javascript, reactjs, nextjs, typescript, nodejs, python, java or stocks. Ahmm no worries, we can also talk about literature, biz, F1 and fiction. 
 - 📫 You can reach me on any of my socials, i'm just a ping away.
 - ⚡ Fun fact: “Books don’t need batteries, ummm... that's dumb”
 - 🍛 Foods/Snacks: No cap, I love Curry and Spicy Golgappes.
