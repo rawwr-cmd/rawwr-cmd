@@ -73,7 +73,8 @@ Smart person also gets eaten.</br> You can't outrun a dinosaur. But at least he 
 
 ## 😆 <em>**KMSL**</em>-
 <p align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?quoteCategory=fun&animation=grow_out_in"/>
+  <!-- HTML -->
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p>
 
 ## 🌻 Feeling Grateful? <em>**GIFT ME YOUR FAVOURITE BOOK.**</em>
