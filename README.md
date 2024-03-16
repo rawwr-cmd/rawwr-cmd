@@ -16,7 +16,7 @@
 
 
 # 💫 About me<img src="https://media0.giphy.com/media/l378ryVoDmMwKoSt2/giphy.gif" width="40">
-- 😄 Pronouns: I don't believe in pronouns.
+- 😄 Pronouns: He.
 - 👦🏼 Age: 19.
 - 🌱 Currently learning more about nodejs.
 - 👯 Collaborates on github and discord.
