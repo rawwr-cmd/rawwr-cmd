@@ -1,10 +1,4 @@
-<h2 class="lead">
-        Imagine writing your "ABOUT ME", going <em>hello!</em> then e-introducing yourself... 🤦‍♀️
-      </h2>
 
-### <i>✅TRY "rawwrs/roars" like DINO </i>
-
-# <em>Dinosaur: **[rawwr!](https://github.com/rawwr-cmd)** hiya man, wsp?</em>
 
 <p align='left'><img src="https://komarev.com/ghpvc/?username=rawwr-cmd&style=for-the-badge" alt='rawwr'></p>
 
