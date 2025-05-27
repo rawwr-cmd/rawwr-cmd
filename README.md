@@ -10,7 +10,7 @@
 
 # 💫 About me<img src="https://media0.giphy.com/media/l378ryVoDmMwKoSt2/giphy.gif" width="40">
 - 😄 Pronouns: He.
-- 👦🏼 Age: 19.
+- 👦🏼 Age: 22.
 - 🌱 Currently learning more about next.js.
 - 👯 Collaborates on github and discord.
 - 💬 Talks about javascript, reactjs, nextjs, typescript, nodejs, python, java or stocks. I also talk about literature, biz, F1 and movies. 
