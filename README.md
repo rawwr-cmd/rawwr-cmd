@@ -70,7 +70,7 @@ Smart person also gets eaten.</br> You can't outrun a dinosaur. But at least he 
 </p>
 
 ## 🌻 Feeling Grateful? <em>**GIFT ME YOUR FAVOURITE BOOK.**</em>
- [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/rawrrx?country.x=IN&locale.x=en_GB) [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/iamrawwr) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/rawwrx) 
+ [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)] [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/rawwrx) 
 
  <div align="center">
 
